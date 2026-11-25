@@ -6,7 +6,9 @@
 
 NapAlert Pro: an app that watches you sleep and texts your boss the exact minute you doze off at your desk. Premium also CCs HR.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the pitch above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23 -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-plucky-sparrow-67-the-worst-app-idea-ever-pitched-a0396b23).</sub>
